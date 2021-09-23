@@ -1,2 +1,2 @@
 # leecode-practice
-leetCode刷题，代码有JavaScript、Dart、Go三种实现
+leetCode刷题，代码有JavaScript、Go两种实现

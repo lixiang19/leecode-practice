@@ -9,7 +9,7 @@
  * @param {string} s
  * @return {number}
  */
-var romanToInt = function(s) {
+var romanToInt = function (s) {
 
 };
 // @lc code=end
